@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
