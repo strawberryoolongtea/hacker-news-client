@@ -3,6 +3,6 @@
     "colors": "^1.4.0"
   },
   "devDependencies": {
-    "parcel": "^2.0.0"
+    "parcel": "^2.3.2"
   }
 }
