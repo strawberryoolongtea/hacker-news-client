@@ -1,8 +1,28 @@
 {
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "parcel-bundler": "^1.12.5"
   },
   "devDependencies": {
-    "parcel": "^2.3.2"
-  }
+    "parcel": "^2.3.2",
+    "typescript": "^4.7.4"
+  },
+  "name": "hacker-news-client",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawberryoolongtea/hacker-news-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawberryoolongtea/hacker-news-client/issues"
+  },
+  "homepage": "https://github.com/strawberryoolongtea/hacker-news-client#readme"
 }
